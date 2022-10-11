@@ -1,4 +1,4 @@
-## Olá pode me chamar de Yuri ou pelo meu codinome Fox : Akaza 🦊
+## Olá pode me chamar de Yuri 🦊
  
 📚— Estudando JavaScript
 📗— Desenvolvedor em treinamento
