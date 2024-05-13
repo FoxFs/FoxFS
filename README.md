@@ -1,6 +1,6 @@
-## Olá pode me chamar de Yuri 🦊
+## Olá pode me chamar de Yuri
  
-📚— Estudando JavaScript
+📚— Estudante me formando em ADS
 📗— Desenvolvedor em treinamento
 
 <div>
